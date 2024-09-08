@@ -2,8 +2,8 @@
 Docker Container for a Minimal Maven Setup
 
 ## Version
-Maven: 3.9.9
-JDK: 21.0.4 (temurin)
+* Maven: 3.9.9
+* JDK: 21.0.4 (temurin)
 
 ## Build
 ```
